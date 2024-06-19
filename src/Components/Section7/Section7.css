@@ -1,0 +1,23 @@
+.section7{
+    display:flex;
+    width:86%;
+    margin-top:50px;
+    margin-left: 110px;
+    gap:45px;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    margin-bottom: 0px; 
+}
+.section7-content img{
+    width:100%;
+}
+.section7-heading{
+    font-weight: 700;
+    font-size: 16px;
+    color: rgba(67, 67, 67, 1);
+}
+.section7-subheading{
+    font-weight: 400;
+    font-size: 15px;
+}

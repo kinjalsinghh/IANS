@@ -1,0 +1,41 @@
+.twitter{
+    display: flex;
+    width:85%;
+    margin-left:100px;
+}
+
+.twitter-content{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    gap:10px;
+    background: rgba(229, 252, 255, 1);
+    padding-left:10px;
+    padding-right:10px;
+}
+.twitter-content img{
+    width:25px;
+    height:25px;
+}
+.twitter-handle{
+    display: flex;
+    flex-direction: column;
+    gap:0px;
+}
+.twitter-tag{
+    margin-bottom:0px;
+    font-weight: 500;
+}
+.handle{
+    margin-top:0px;
+    font-size: 16px;
+    color:rgba(118, 118, 118, 1);
+}
+.tweet p{
+    font-size: 12px;
+    font-weight: 400;
+}
+.twitter hr{
+    border:2px solid rgba(189, 189, 189, 1);
+}

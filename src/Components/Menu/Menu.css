@@ -1,0 +1,30 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+    width:85%;
+    margin-left:100px;
+    gap:50px;
+}
+.menu-bottom{
+    display:flex;
+    background: rgba(191, 32, 38, 1);
+    color:rgba(255, 255, 255, 1);
+    gap:30px;
+}
+.live-ians{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:3px;
+    font-weight: 600;
+}
+.more{
+    gap:5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu img{
+    width:25px;
+    height:25px;
+}
